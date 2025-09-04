@@ -1,2 +1,2 @@
 # sportify-clone
-spotify clone use pure html, css and javascript
+spotify clone using pure html, css and javascript
